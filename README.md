@@ -10,11 +10,11 @@
 <img align="right" alt="Coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
 
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently Working as **Software Engineer intern at Thinkitive Technology**
 
 - 💬 Ask me about **OOP, C#, JAVA,C++, DATA STRUCTURES**
 
-- 📫 How to reach me **rohitkokate1163@gmail.com**
+- 📫 How to reach me **rohit.kokate@thinkitive.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
